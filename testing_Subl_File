@@ -5,14 +5,14 @@
 3. anything.com
 
 
-avijitmazumder27@gmail.com
-Idon'tknowhowwilligetbackmyProductivemanaccount@143
-
-avijitmazumderhacking@gmail.com
-avijit-maz
-Idontknowwhatshouldigivemypassword
-
-
-MyInteGritiPassword@MayGodBlessMeWithMyBugHunting$@143
 
 Here I am writting a new line...
+
+git status
+git add testing_Subl_File
+git status
+git commit -m "added first change"
+git log --oneline
+git diff 75275d3 5c7c23f
+
+
