@@ -58,3 +58,4 @@
 200    33KB  http://geeksforgeeks.com/webpack.mix.js
 200    33KB  http://geeksforgeeks.com/webpack.config.js
 200    33KB  http://geeksforgeeks.com/webpa.config.js
+200    33KB  http://geeksforgeeks.com/webpa.cong.js
