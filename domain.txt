@@ -57,5 +57,5 @@
 200    33KB  http://geeksforgeeks.com/v1/test/js/console_ajax.js
 200    33KB  http://geeksforgeeks.com/webpack.mix.js
 200    33KB  http://geeksforgeeks.com/webpack.config.js
-200    33KB  http://geeksforgeeks.com/webpa.config.js
 200    33KB  http://geeksforgeeks.com/webpa.cong.js
+200    33KB  http://geeksforgeeks.com/wbcaa.config.js
